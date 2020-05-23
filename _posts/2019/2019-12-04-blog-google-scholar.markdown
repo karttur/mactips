@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Google scholar
-modified: '2019-11-06 T18:17:25.000Z'
 categories: blog
 excerpt: "Organize Google scholar on Mac"
 tags:
@@ -9,6 +8,7 @@ tags:
   - google scholar
 
 image: avg-trmm-3b43v7-precip_3B43_trmm_2001-2016_A
+modified: '2019-11-06 T18:17:25.000Z'
 date: '2018-01-09 11:27'
 comments: true
 share: true

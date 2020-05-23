@@ -3,7 +3,7 @@ layout: post
 title: Slow mac
 modified: '2019-11-06 T18:17:25.000Z'
 categories: blog
-excerpt: "Alternatives for sppeding up slow mac"
+excerpt: "Alternatives for speeding up slow mac"
 tags:
   - mac osx
   - slow

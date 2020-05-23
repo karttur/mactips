@@ -8,14 +8,6 @@
   url: /
   include: 'N'
 
-- title: Drafts
-  url: /draft/
-  include: 'N'
-
-- title: Literature
-  url: /literature/
-  include: 'N'
-
 - title: Search
   url: /search/
   include: 'N'
